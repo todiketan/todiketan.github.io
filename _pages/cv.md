@@ -1,4 +1,6 @@
-<embed src="{{ site.baseurl }}/files/resume.pdf" width="600" height="700" type='application/pdf'>
+<!-- <embed src="{{ site.baseurl }}/files/resume.pdf" width="600" height="700" type='application/pdf'> -->
+  
+<embed src="https://todiketan.github.io/files/resume.pdf" type="application/pdf" width="600px" height="500px" />
 <!-- ---
 layout: archive
 title: "CV"
